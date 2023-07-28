@@ -2,10 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 #navbarNav{
     background-color: #2c2b47;
 }
 button[type="bot"]{
     background-color: #ff702a;
+}
+body{
+    background-color: #1e1d2b;
 }
